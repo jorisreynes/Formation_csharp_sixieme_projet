@@ -8,3 +8,4 @@ Le but de ce dernier projet est de créer un site web C#10 .NET Core 6 présenta
 Les données sont disponibles au format Json grâce à une API REST, et le projet est publié sur le Cloud Microsoft Azure
 
 https://tutocsharp.azurewebsites.net/
+(en ligne jusqu'au 15/06/2023)
